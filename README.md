@@ -1,5 +1,5 @@
 # ShoppingList
-A Java Program for Generating Weekly Grocery Lists
+A Java Program for generating weekly grocery lists
 
 
 🧾 Assignment Description 🧾
